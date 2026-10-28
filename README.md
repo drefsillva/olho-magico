@@ -11,10 +11,10 @@
 </p>
 
 ---
-## 👁️ Conheça o Olho Mágico
+## 👁️ Olho Mágico
 
 <p align="center">
-  <img src="./imagens/olho-magico.jpeg" alt="Olho Mágico" width="600">
+  <img src="./imagem/olho-magico.jpeg" alt="Imagem do projeto Olho Mágico" width="600">
 </p>
 
 ## &#x20;Sobre o projeto
