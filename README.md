@@ -85,14 +85,14 @@ python olhomagico.py
 
 Estudante de Engenharia de Software, aprendendo e desenvolvendo projetos para evoluir na programação.
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/drefsillva](https://github.com/drefsillva)">GitHub\</a> ·
-&#x20; \<a href="[https://www.linkedin.com/in/andressa-silva-95500217a](https://www.linkedin.com/in/andressa-silva-95500217a)">LinkedIn\</a> ·
-&#x20; \<a href="[https://instagram.com/dsillva_4](https://instagram.com/dsillva_4)">Instagram\</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/drefsillva">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/andressa-silva-95500217a">LinkedIn</a> ·
+  <a href="https://instagram.com/dsillva_4">Instagram</a>
+</p>
 
 ---
 
-\<p align="center">  &#x20;
-
-&#x20;\<em>Um olhar, infinitas possibilidades.\</em>  \</p>
+<p align="center">
+  <em>Um olhar, infinitas possibilidades.</em>
+</p>
