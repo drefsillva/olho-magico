@@ -14,9 +14,7 @@
 ## 👁️ Conheça o Olho Mágico
 
 <p align="center">
-  <img src="./imagens/olho-magico.png"
-       alt="Imagem do projeto Olho Mágico"
-       width="600">
+  <img src="./imagens/olho-magico.jpg" alt="Olho Mágico" width="600">
 </p>
 
 ## &#x20;Sobre o projeto
