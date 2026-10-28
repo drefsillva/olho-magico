@@ -1,12 +1,14 @@
 # Olho Mágico
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python">
-&#x20; \<img src="[https://img.shields.io/badge/Tkinter-interface-7B2CBF?style=for-the-badge](https://img.shields.io/badge/Tkinter-interface-7B2CBF?style=for-the-badge)" alt="Tkinter">
-&#x20; \<img src="[https://img.shields.io/badge/NumPy-computação-6A4C93?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-computação-6A4C93?style=for-the-badge\&logo=numpy\&logoColor=white)" alt="NumPy">
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tkinter-interface-7B2CBF?style=for-the-badge" alt="Tkinter">
+  <img src="https://img.shields.io/badge/NumPy-computação-6A4C93?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p>
 
-\<p align="center">   \<em>Uma experiência visual que transforma um olhar em uma viagem pelo espaço. \</em> \</p>
+<p align="center">
+  <em>Uma experiência visual que transforma um olhar em uma viagem pelo espaço.</em>
+</p>
 
 ---
 
